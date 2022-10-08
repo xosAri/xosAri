@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @xosAri
-- 👀 I’m interested in ... Netflix & chilling!
+- 👋 Hi, I'm Samari!
+- 👀 I’m interested in ... Netflix & Chilling!
 - 🌱 I’m currently learning ... Game Development!
 - 💞️ I’m looking to collaborate on ... Games!
 - 📫 How to reach me ... Email?
